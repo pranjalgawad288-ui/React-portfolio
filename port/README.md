@@ -2,7 +2,7 @@
 
 A responsive personal portfolio website built with React.js to showcase my skills, projects, education, and contact information.
 
-![image alt]()
+![image alt](https://github.com/pranjalgawad288-ui/React-portfolio/blob/dfe059db8d320ea253781c24263ecb1dde31d0f3/port/Screenshot%202026-06-23%20212538.png)
 ## 🚀 Features
 
 * Modern and responsive design
