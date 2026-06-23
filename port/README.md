@@ -1,16 +1,50 @@
-# React + Vite
+# React Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive personal portfolio website built with React.js to showcase my skills, projects, education, and contact information.
 
-Currently, two official plugins are available:
+![image alt]()
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Modern and responsive design
+* Clean user interface
+* About Me section
+* Skills showcase
+* Projects section
+* Education details
+* Contact information
+* Component-based React architecture
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Vite
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 📸 Preview
+
+This portfolio includes sections for:
+
+* Home
+* About
+* Skills
+* Projects
+* Education
+* Contact
+
+
+## 🎯 Purpose
+
+This project was created to practice React development and build a professional portfolio for showcasing personal projects and technical skills.
+
+## 📬 Contact
+
+Feel free to connect with me through GitHub or LinkedIn.
+
+---
+
+Built with ❤️ using React.js
+
